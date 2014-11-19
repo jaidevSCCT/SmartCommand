@@ -1,0 +1,9 @@
+Packages required to install and run this application 
+
+====> libusb-1.0.9
+http://www.libusb.org/
+./configure
+make 
+make install
+
+

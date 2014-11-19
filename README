@@ -1,0 +1,23 @@
+SmartCommand
+=================================
+Authors : Jaidev Bhattacharjee
+Version : 1.0
+License : Not present
+Document: Not present
+Requires: A C compiler
+          Make, linker tools
+          pcsclite , libusb
+
+Tested Platforms:
+        Linux 2.4 (Redhat 7.1, Suse 7.1/7.2, Debian 3.0)
+
+This application is used to send APDU commands to smart cards in linux .It is written in C
+
+Thanks to pcsclite group for providing us this APIs https://pcsclite.alioth.debian.org/api/group__API.html
+
+If you want to give command use COMMAND file given in the current directory run one command at a time 
+
+Mailing List 
+===================================
+jaidev bhattacharjee
+<jaidev.csit.etc@gmail.com>
